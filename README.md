@@ -1,6 +1,12 @@
 # Machine Learning Experiments
 A collection of weekly creative machine learning experiments throughout a course at university.
 
+### Completion (Text Generation and Handpose)
+
+[Live](https://text-gen-handpose.vercel.app/) <br>
+[Code](https://github.com/zalashub/text-gen-handpose)
+
+
 ### Parallel worlds (facadesB2A)
 
 [p5 editor link](https://editor.p5js.org/zalashub/sketches/ERh8fSsmx)
